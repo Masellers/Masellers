@@ -8,7 +8,7 @@
 
 <h2> 📜 Certifications</h2>
 
-[Comptia Security+](link-to-cert)
+[Comptia Security+](https://github.com/Masellers/Masellers/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
 
 [Google Cybersecurity Professional](https://github.com/Masellers/Masellers/blob/main/Coursera%20Certificate.pdf)
 
