@@ -10,7 +10,7 @@
 
 [Comptia Security+](link-to-cert)
 
-[Google Cybersecurity Professional](link-to-cert)
+[Google Cybersecurity Professional](https://github.com/Masellers/Masellers/blob/main/Coursera%20Certificate.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
