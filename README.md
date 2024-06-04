@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Active Directory Home Lab](https://github.com/Masellers/LABURL)
+  - [Active Directory Home Lab](https://github.com/Masellers/ActiveDirectoryLab)
   - [FlareVM + REMnux Malware Analysis](https://github.com/Masellers/LABURL)
 
 <h2> 📜 Certifications</h2>
