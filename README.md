@@ -12,6 +12,14 @@
 
 [Google Cybersecurity Professional](https://github.com/Masellers/Masellers/blob/main/Coursera%20Certificate.pdf)
 
+<h2> 📄 Guided Projects and Other Certifications </h2>
+
+[Wireshark for Beginners: Capture Packets](https://github.com/Masellers/Masellers/blob/main/Coursera%20Wireshark%20Beginner.pdf)
+
+[Wireshark for Basic Network Security Analysis](https://github.com/Masellers/Masellers/blob/main/Coursera%20Wireshark.pdf)
+
+[IBM Microsoft Windows Defender and Firewall](https://github.com/Masellers/Masellers/blob/main/Coursera%20Firewall.pdf)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
