@@ -9,7 +9,7 @@
   - [Active Directory Home Lab](https://github.com/Masellers/ActiveDirectoryLab)
   - [Vulnerability Management With Tenable Nessus](https://github.com/Masellers/Vulnerability-Management)
   - [Deploying A Web Server With Microsoft Azure](https://github.com/Masellers/LABURL)
-  - [Network & Routing Simulation With GNS3](https://github.com/Masellers/LABURL)
+  - [Network & Routing Simulation With GNS3](https://github.com/Masellers/Network-Simulation-With-GNS3)
 
 <h2> 📜 Certifications</h2>
 
