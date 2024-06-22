@@ -8,7 +8,7 @@
 - <b>Active Directory Home Lab</b>
   - [Active Directory Home Lab](https://github.com/Masellers/ActiveDirectoryLab)
   - [Network & Routing Simulation With GNS3](https://github.com/Masellers/LABURL)
-  - [Vulnerability Management With Tenable Nessus](https://github.com/Masellers/NessusProject)
+  - [Vulnerability Management With Tenable Nessus](https://github.com/Masellers/Vulnerability-Management)
   - [Microsoft Azure](https://github.com/Masellers/LABURL)
 
 <h2> 📜 Certifications</h2>
