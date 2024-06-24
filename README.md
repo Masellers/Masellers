@@ -1,7 +1,7 @@
 <h1>Hi, I'm Micah! <br/></h1>
 
 <h2>🌱 About Me <br/></h2>
-<b>I'm currently looking to change careers into Information Technology/Cybersecurity and am currently enrolling in classes for this upcoming fall semester. I have obtained my Security+ certification and I am looking for opertunities and projects to challenge and improve myself. </b>
+<b>I am a for pre-med student who graduated with my degree in Biomedical Sciences but I'm currently looking to change careers into Information Technology/Cybersecurity and am currently enrolling in classes for this upcoming fall semester. I have obtained my Security+ certification and I am looking for opportunities and projects to challenge and improve myself while looking for a new career. </b>
 
 <h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
