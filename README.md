@@ -8,8 +8,9 @@
 - <b>Active Directory Home Lab</b>
   - [Active Directory Home Lab](https://github.com/Masellers/ActiveDirectoryLab)
   - [Vulnerability Management With Tenable Nessus](https://github.com/Masellers/Vulnerability-Management)
-  - [Configuring A Web Server With Microsoft Azure](https://github.com/Masellers/LABURL)
-  - [Network & Routing Simulation With GNS3](https://github.com/Masellers/Network-Simulation-With-GNS3)
+  - [Configuring A Web Server With Microsoft Azure](https://github.com/Masellers/Configure-A-Web-Server-with-Azure)
+  - [Onboard Automator With Azure(in progress)](https://github.com/Masellers/Onboard-Automator-With-Azure)
+ <!-- - [Network & Routing Simulation With GNS3](https://github.com/Masellers/Network-Simulation-With-GNS3) -->
 
 <h2> 📜 Certifications</h2>
 
